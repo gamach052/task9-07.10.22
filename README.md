@@ -1,6 +1,6 @@
 ###  [Task 8kyu](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/train/java)
 
-Complete the function that calculates the area of the red square, when the length of the circular arc A is given as the input. Return the result rounded to two decimals.
+Given three integers a ,b ,c, return the largest number obtained after inserting the following operators and brackets: +, *, ()
 ### My solution
 ```Java
 public class Kata
